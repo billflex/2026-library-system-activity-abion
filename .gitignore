@@ -1,0 +1,11 @@
+vendor/
+.env
+.env.local
+composer.lock
+.DS_Store
+.idea/
+*.log
+*.cache
+*.zip
+2026-library-system-activity-project.zip
+2026-library-system-activity-zipcheck/

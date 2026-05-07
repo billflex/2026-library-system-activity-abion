@@ -1,0 +1,15 @@
+{
+    "name": "student/2026-library-system-activity",
+    "autoload": {
+        "psr-4": {
+            "App": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "billflex",
+            "email": "07302549@dwc-legazpi.edu"
+        }
+    ],
+    "require": {}
+}
